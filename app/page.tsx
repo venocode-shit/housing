@@ -127,7 +127,7 @@ export default function HomePage() {
   const [paymentStatus, setPaymentStatus] = useState(null);
 
   // Add Listing
-  function handleAddListing(e) {
+  function handleAddListing(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const { title, location, price, owner, ownerAddress, appFee } = newListing;
     if (!title || !location || !price || !owner || !ownerAddress || !appFee) {
@@ -160,7 +160,7 @@ export default function HomePage() {
   }
 
   // Submit Application
-  function submitApplication(e) {
+  function submitApplication(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const { name, email, phone, applicantID } = applicant;
     if (!name || !email || !phone || !applicantID) {
@@ -175,7 +175,7 @@ export default function HomePage() {
   }
 
   // Handle file upload (mock)
-  const handleFileUpload = (e, type) => {
+  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>, type: string) => {
     const file = e.target.files[0];
     if (!file) return;
     const reader = new FileReader();
