@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
 
         {/* Effective Date */}
         <p className="mb-6">
-          <strong>Effective Date:</strong> [Insert Date]
+          <strong>Effective Date:</strong> [29-11-2025]
         </p>
 
         {/* Section 1 */}
@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
           1. Introduction
         </h2>
         <p className="mb-4">
-          Welcome to <strong>[Platform Name]</strong> (“we”, “our”, “us”). Our platform provides a service that allows homeowners to list their houses for potential tenants. By using our platform, you agree to comply with and be bound by the following Privacy Policy and Terms and Conditions. These policies apply to all users, homeowners, tenants, and visitors accessing our services.
+          Welcome to <strong>[editve]</strong> (“we”, “our”, “us”). Our platform provides a service that allows homeowners to list their houses for potential tenants. By using our platform, you agree to comply with and be bound by the following Privacy Policy and Terms and Conditions. These policies apply to all users, homeowners, tenants, and visitors accessing our services.
         </p>
 
         {/* Section 2 */}
