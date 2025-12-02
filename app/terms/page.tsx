@@ -22,7 +22,7 @@ export default function TermsPage() {
           1. Acceptance of Terms
         </h2>
         <p className="mb-4">
-          By using [Platform Name], you agree to be bound by these Terms and Conditions. If you do not agree, please do not use the platform.
+          By using [editve], you agree to be bound by these Terms and Conditions. If you do not agree, please do not use the platform.
         </p>
 
         {/* Section 2 */}
