@@ -315,7 +315,7 @@ export default function Page() {
             <div>
               <h3 className="text-lg font-semibold text-slate-900">Legal</h3>
               <ul className="mt-3 space-y-2 text-sm">
-                <li><a href="/privacypolicy" className="hover:text-purple-600">Privacy Policy</a></li>
+                <li><a href="/privacy" className="hover:text-purple-600">Privacy Policy</a></li>
                 <li><a href="/terms" className="hover:text-purple-600">Terms & Conditions</a></li>
               </ul>
             </div>
