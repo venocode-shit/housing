@@ -243,7 +243,7 @@ export default function Page() {
       <main className="max-w-6xl mx-auto px-6 pb-28">
         <section className="flex flex-col-reverse lg:flex-row items-center gap-8 mt-6">
           <div className="w-full lg:w-1/2">
-            <h2 className="text-4xl font-extrabold">List your house worldwide — collect application fees with ease</h2>
+            <h2 className="text-4xl font-extrabold">List your house worldwide  millions of tenet every day</h2>
             <p className="mt-4 text-slate-600">Create a listing, set an application fee, and receive tenant applications from anywhere. Tenants fill details and pay the application fee to apply.</p>
             <div className="mt-6 flex gap-3">
               <button
@@ -300,7 +300,7 @@ export default function Page() {
         <footer className="mt-12 border-t border-slate-200 bg-white text-slate-700">
           <div className="max-w-6xl mx-auto px-6 py-12 grid grid-cols-1 sm:grid-cols-3 gap-10">
             <div>
-              <h3 className="text-lg font-semibold text-slate-900">About GlobalRent</h3>
+              <h3 className="text-lg font-semibold text-slate-900">About editve</h3>
               <p className="mt-3 text-sm leading-relaxed">
                 GlobalRent is a worldwide rental platform where owners can list their properties, set application fees, and tenants can apply online.
               </p>

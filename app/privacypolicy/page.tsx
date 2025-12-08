@@ -30,7 +30,7 @@ export default function PrivacyPolicy() {
           2. Services Overview
         </h2>
         <p className="mb-4">
-          [Platform Name] acts solely as a <strong>platform-as-a-service (PaaS)</strong> that enables homeowners to list their properties and tenants to submit applications. We <strong>do not act as a real estate agent, property manager, landlord, or legal representative</strong>. All legal responsibilities related to property rental, tenancy agreements, disputes, or compliance with local housing laws rest solely with the homeowners and tenants.
+          [Editve] acts solely as a <strong>platform-as-a-service (PaaS)</strong> that enables homeowners to list their properties and tenants to submit applications. We <strong>do not act as a real estate agent, property manager, landlord, or legal representative</strong>. All legal responsibilities related to property rental, tenancy agreements, disputes, or compliance with local housing laws rest solely with the homeowners and tenants.
         </p>
 
         {/* Section 3 */}
